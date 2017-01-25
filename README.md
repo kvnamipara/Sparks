@@ -5,7 +5,7 @@ This repo contains the projects done during the mahine learning course.
 
 This model predict the profit of the newly opened restaurant according to training set contaig features population and profit.
 ### Techniques used
-- Linear Regression 
+- Linear Regression
 - Gradient Descent
 - Using Normal Equation
 - Feature Normalization
@@ -14,7 +14,7 @@ This model predict the profit of the newly opened restaurant according to traini
 
 This model predict whether student is accepted or not according to marks he/she obtained in exam1 and exam2.
 ### Techniques used
-- Logistic Regression 
+- Logistic Regression
 - Use of fminunc of octave
 
 
@@ -22,6 +22,13 @@ This model predict whether student is accepted or not according to marks he/she 
 
 This model predicts whether microchip assures quality assurance or not according to two performed test.
 ### Techniques used
-- Regularized Logistic Regression 
+- Regularized Logistic Regression
 - Use of fminunc of octave
 - Feature mapping
+
+## Digit_recognition
+
+This is neural networks model which predicts digits stored in form of 20*20 pixel size images.
+### Techniques used
+- Logistic Regression Accuracy-95.12%
+- Neural networks Accuracy-97.52%
