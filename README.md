@@ -32,3 +32,9 @@ This is neural networks model which predicts digits stored in form of 20*20 pixe
 ### Techniques used
 - Logistic Regression Accuracy-95.12%
 - Neural networks Accuracy-97.52%
+
+## Spam Filter
+This is classification model which predicts whether the given email is span or not.
+### Techniques used
+- SVM algorithm implemented
+- use of gaussian kernel
