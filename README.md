@@ -1,9 +1,9 @@
 # Sparks
-This repo contains the projects done during the mahine learning course.
+This repo contains the projects done during the machine learning course.
 
 ## Restaurant_profit
 
-This model predict the profit of the newly opened restaurant according to training set contaig features population and profit.
+This model predict the profit of the newly opened restaurant according to training set contain features population and profit.
 ### Techniques used
 - Linear Regression
 - Gradient Descent
