@@ -3,7 +3,7 @@ This repo contains the projects done during the machine learning course.
 
 ## Restaurant_profit
 
-This model predict the profit of the newly opened restaurant according to training set contain features population and profit.
+This model predicts the profit of the newly opened restaurant according to training set contain features population and profit.
 ### Techniques used
 - Linear Regression
 - Gradient Descent
@@ -12,7 +12,7 @@ This model predict the profit of the newly opened restaurant according to traini
 
 ## Univ_accepatance
 
-This model predict whether student is accepted or not according to marks he/she obtained in exam1 and exam2.
+This model predicts whether a student is accepted or not according to marks he/she obtained in exam1 and exam2.
 ### Techniques used
 - Logistic Regression
 - Use of fminunc of octave
@@ -34,7 +34,7 @@ This is neural networks model which predicts digits stored in form of 20*20 pixe
 - Neural networks Accuracy-97.52%
 
 ## Spam Filter
-This is classification model which predicts whether the given email is span or not.
+This is classification model which predicts whether the given email is a span or not.
 ### Techniques used
 - SVM algorithm implemented
 - use of gaussian kernel
